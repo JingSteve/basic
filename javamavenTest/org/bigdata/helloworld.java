@@ -8,7 +8,8 @@ class helloworld {
     public static void main(String[] args) {
         System.out.println("12345");
         System.out.println("Hello World!");
-        System.out.println("测试主干");
+        System.out.println("测试主干1");
+        System.out.println("测试主干2");
     }
 
 
