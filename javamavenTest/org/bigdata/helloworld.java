@@ -11,6 +11,7 @@ class helloworld {
         System.out.println("测试主干1");
         System.out.println("测试主干2");
         System.out.println("测试git分支");
+        System.out.println("测试Gitlog");
     }
 
 
